@@ -1,0 +1,32 @@
+{
+  "name": "phaser-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Lukas Zirngibl",
+  "scripts": {
+    "dev": "webpack --config ./webpack.config.js",
+    "deploy": "webpack --config ./webpack.prod.config.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.1",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-stage-0": "6.24.1",
+    "browser-sync-webpack-plugin": "^2.0.1",
+    "browser-sync": "^2.23.6",
+    "clean-webpack-plugin": "^0.1.18",
+    "copy-webpack-plugin": "^4.4.1",
+    "expose-loader": "^0.7.4",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "phaser-ce": "^2.10.0",
+    "ramda": "0.25.0",
+    "webfontloader": "^1.6.28"
+  }
+}

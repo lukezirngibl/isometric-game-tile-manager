@@ -1,0 +1,20 @@
+{
+  "name": "iso-rect-algorithm",
+  "version": "1.0.3",
+  "description": "Algorithm for maintaining a rectangular formation of isometric tiles",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack && npm run copy-to-example",
+    "copy-to-example": "cp ./index.js ./examples/phaser-js/iso-rect-algorithm.js"
+  },
+  "author": "Luke Zirngibl",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-plugin-transform-object-rest-spread": "6.26.0",
+    "babel-preset-env": "1.7.0",
+    "webpack": "2.3.2"
+  }
+}
