@@ -5,14 +5,7 @@ import * as Constants from './constants';
 
 let gameView;
 
-import IR from '../iso-rect-algorithm';
-
-// const mapXYtoScreenXY = (x, y) => {
-//   return {
-//     x: (x - y) * (Constants.TILE.x / 2),
-//     y: (x + y) * (Constants.TILE.y / 2),
-//   }
-// }
+import IR from '../algorithm';
 
 class GameView {
   constructor(game, screen) {

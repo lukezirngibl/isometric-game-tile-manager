@@ -5,7 +5,7 @@
   "author": "Lukas Zirngibl",
   "scripts": {
     "dev": "webpack --config ./webpack.config.js",
-    "deploy": "webpack --config ./webpack.prod.config.js"
+    "build": "webpack --config ./webpack.prod.config.js"
   },
   "license": "MIT",
   "devDependencies": {

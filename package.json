@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack && npm run copy-to-example",
-    "copy-to-example": "cp ./index.js ./examples/phaser-js/iso-rect-algorithm.js"
+    "copy-to-example": "cp ./index.js ./examples/phaser-js/algorithm.js"
   },
   "author": "Luke Zirngibl",
   "license": "ISC",
