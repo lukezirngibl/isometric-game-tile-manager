@@ -2,7 +2,7 @@
 
 #### Demo
 
-[Check out the demo](https://github.com/lukezirngibl/isometric-game-tile-manager/tree/master/examples/phaser-js/build)
+[Check out the demo](https://github.com/lukezirngibl/isometric-game-tile-manager/tree/master/examples/phaser-js/build/index.html)
 
 #### How it works
 
