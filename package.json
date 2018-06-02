@@ -1,6 +1,6 @@
 {
-  "name": "iso-rect-algorithm",
-  "version": "1.0.3",
+  "name": "isometric-game-tile-manager",
+  "version": "1.0.0",
   "description": "Algorithm for maintaining a rectangular formation of isometric tiles",
   "main": "index.js",
   "scripts": {

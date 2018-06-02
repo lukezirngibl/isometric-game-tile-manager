@@ -1,5 +1,15 @@
 ## Isometric Game Tile Manager
 
+#### Installation
+
+```
+npm install isometric-game-tile-manager
+```
+
+#### Getting started
+
+For now, please reference the phaser-js example. API documentation coming soon.
+
 #### Demo
 
 [Check out the demo](https://lukezirngibl.github.io/isometric-game-tile-manager/examples/phaser-js/build/index.html)
