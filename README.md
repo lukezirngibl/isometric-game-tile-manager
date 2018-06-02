@@ -1,4 +1,5 @@
-## Isometric Game Tile Manager
+# Isometric Game Tile Manager
+[![npm](https://img.shields.io/npm/v/isometric-game-tile-manager.svg)](https://www.npmjs.com/package/isometric-game-tile-manager)
 
 #### Installation
 
