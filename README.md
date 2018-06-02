@@ -2,7 +2,7 @@
 
 #### Demo
 
-[Check out the demo](https://lukezirngibl.github.io/isometric-game-tile-manager/examples/phaser-js/build/index.html)
+[Check out the demo](https://github.com/lukezirngibl/isometric-game-tile-manager/tree/master/examples/phaser-js/build)
 
 #### How it works
 
@@ -11,13 +11,13 @@ The green tiles are the tiles that are being rendered and stored in memory.
 
 ###### Vertical move
 
-![alt text](https://lukezirngibl.github.io/isometric-game-tile-manager/assets/vertical-diagram.jpg "vertical")
+![alt text](https://github.com/lukezirngibl/isometric-game-tile-manager/blob/master/assets/vertical-diagram.jpg "vertical")
 
 As the player moves upward, top rows are added and bottom rows are removed.
 
 ###### Lateral move
 
-![alt text](https://lukezirngibl.github.io/isometric-game-tile-manager/assets/lateral-diagram.jpg "lateral")
+![alt text](https://github.com/lukezirngibl/isometric-game-tile-manager/blob/master/assets/lateral-diagram.jpg "lateral")
 
 As the player moves right, right columns are added and left columns are removed.
 
